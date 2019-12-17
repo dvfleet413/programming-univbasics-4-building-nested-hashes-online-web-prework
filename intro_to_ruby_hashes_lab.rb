@@ -32,6 +32,7 @@ def monopoly_with_third_tier
 	      :third_level => 100,
 	      :fourth_level => 200
 	    }
+	    :names => []
 	  }
 	}
 end
