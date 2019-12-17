@@ -13,6 +13,7 @@ def monopoly_with_second_tier
   # complexity.
 	{
 	  :name => "Dave"
+	  :railroads => {}
 	}
 end
 
